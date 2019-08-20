@@ -5,7 +5,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>stream-consumer</module>
-        <module>stream-producer</module>
         <module>kafka-producer</module>
         <module>kafka-consumer</module>
     </modules>

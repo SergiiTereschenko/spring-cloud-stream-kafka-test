@@ -32,7 +32,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.gc.test.cloud.stream.kafka.listener.StreamListenerApplication</mainClass>
+                    <mainClass>com.st.test.cloud.stream.kafka.listener.StreamListenerApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>

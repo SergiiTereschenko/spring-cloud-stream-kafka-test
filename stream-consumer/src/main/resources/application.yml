@@ -7,4 +7,4 @@ spring:
       bindings:
         messages_in:
           group: stream-listener-group
-          destination: t_messages
+          destination: t2

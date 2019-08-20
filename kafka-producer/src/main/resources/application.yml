@@ -6,4 +6,4 @@ kafka:
     keySerializer: org.apache.kafka.common.serialization.StringSerializer
 #    transactionalId: abcdef
 
-service.message.topic.name: t_messages
+service.message.topic.name: t2

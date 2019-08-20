@@ -2,7 +2,6 @@ HELP.md
 /target/
 /kafka-producer/target/
 /stream-consumer/target/
-/stream-producer/target/
 !.mvn/wrapper/maven-wrapper.jar
 mvnw
 mvnw.cmd

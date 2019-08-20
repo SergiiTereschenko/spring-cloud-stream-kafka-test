@@ -8,4 +8,4 @@ kafka:
     autoCommitIntervalMs: 1000
     sessionTimeoutMs: 30000
 
-service.message.topic.name: t_messages
+service.message.topic.name: t2
