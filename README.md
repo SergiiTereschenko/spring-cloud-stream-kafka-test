@@ -31,6 +31,6 @@ bin/kafka-server-start.sh config/server2.properties**
 
 12. **To test in console:**<br>
 _Run:_  
- bin/kafka-console-producer.sh --broker-list localhost:9093,localhost:9094 --topic t_messages<br>
+ bin/kafka-console-producer.sh --broker-list localhost:9093,localhost:9094 --topic t2<br>
 _Run:_  
  bin/kafka-console-consumer.sh --bootstrap-server localhost:9093 --topic t_messages --from-beginning
